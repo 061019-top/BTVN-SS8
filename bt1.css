@@ -1,0 +1,40 @@
+.header{
+    text-align: center;
+    background-color: aliceblue;
+    width: 800px;
+    margin: auto;
+    border-radius: 15px;
+     
+}
+.forn{
+    padding-right: 80px;
+    border-right: 5px solid black;
+
+}
+h3{
+    font-family: "Roboto", serif;
+    word-spacing: 2px;
+}
+img{
+    width: 350px;
+    height: 250px;
+}
+.one{
+    opacity: 0.5;
+}
+.end{
+    position: relative;
+    right: -1px;
+    opacity: 0.5;
+}
+.hai{
+    position: relative;
+    right: -1px;
+    opacity: 0.5;
+}
+button{
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+    border: 3px solid black;
+}

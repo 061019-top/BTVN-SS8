@@ -1,0 +1,35 @@
+.header{
+    position: relative;
+    left: 300px;
+    top: 150px;
+}
+h1{
+    border-bottom: 3px solid red;
+    width: 165px;
+}
+img{
+    border: 3px solid rgb(158, 153, 153);
+    rotate: 45deg;
+    position: relative;
+    left: 20px;
+}
+.cach{
+    padding-left: 50px;
+}
+p{
+    opacity: 0.6;
+}
+.mot{
+    display: flex;
+}
+.hai{
+    display: flex;
+}
+.two{
+    position: relative;
+    left: 40px;
+}
+.four{
+    position: relative;
+    left: 40px;
+}
