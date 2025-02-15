@@ -1,0 +1,54 @@
+.header{
+    width: 800px;
+    position: relative;
+    left: 350px;
+    top: 150px;
+    border-radius: 5px;
+}
+.title{
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    height: 280px;
+}
+.mo{
+    opacity: 0.5;
+}
+button{
+    width: 120px;
+    height: 40px;
+    position: relative;
+    top: 40px;
+}
+.one{
+    background-color: rgb(96, 149, 207) ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
+.two{
+    background-color: rgb(240, 240, 240);
+    color: gray;
+    border: 2px solid gray;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.footer{
+    background-color: rgb(242, 242, 242);
+    text-align: center;
+    opacity: 0.5;
+    position: relative;
+    bottom: 30px;
+    height: 120px;
+
+}
+.logo{
+    font-size: 30px;
+}
+.end{
+    position: relative;
+    top: 20px;
+}
+span{
+    border-bottom: 3px solid gray;
+}
